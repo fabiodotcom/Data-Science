@@ -10,7 +10,7 @@ Meu Portfólio de Data Science
 </p>
 
 # Fabio Rodrigues
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Civil Engineer* at Dynamik4</sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
@@ -24,9 +24,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
-
----
+--
