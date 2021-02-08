@@ -20,7 +20,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/f-rodrigues/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@fabio_rodrigues)
 
 
 ## Projetos:
