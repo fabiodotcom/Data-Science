@@ -8,7 +8,7 @@
 # Fábio Rodrigues
 <sub>*BIM Modeler* at Dynamik4</sub>
 
-Graduated in Civil Engineering from PUC Minas, on the Poços de Caldas campus. During college courses, I took some programming classes and was immediately attracted to the area, but I only had the opportunity to return to programming studies after finishing my degree. Currently, I have focused my studies in the areas of data science, analyzing topics of various subjects.
+Undergraduated in Civil Engineering from PUC Minas, on the Poços de Caldas campus. During college courses, I took some programming classes and was immediately attracted to the area, but I only had the opportunity to return to programming studies after finishing my degree. Currently, I have focused my studies in the areas of data science, analyzing topics of various subjects.
 
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
