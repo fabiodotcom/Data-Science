@@ -16,4 +16,4 @@ Undergraduated in Civil Engineering from PUC Minas, on the Poços de Caldas camp
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise de Dados do Airbnb na Cidade de Seattle:** https://bit.ly/3dzlGAD
