@@ -7,13 +7,13 @@
 Undergraduated in Civil Engineering from PUC Minas, on the Poços de Caldas campus. During college courses, I took some programming classes and was immediately attracted to the area, but I only had the opportunity to return to programming studies after finishing my degree. Currently, I have focused my studies in the areas of data science, analyzing topics of various subjects.
 
 
-**Background in:** Python, Machine Learning and Mathematical Optimisation.
+**Background in:** C#, Python and Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/f-rodrigues/)
 * [Medium](https://medium.com/@fabio_rodrigues)
 
 
-## Projetos:
+## Projects:
 
 * **Análise de Dados do Airbnb na Cidade de Seattle:** https://bit.ly/3dzlGAD
