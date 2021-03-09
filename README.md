@@ -17,3 +17,4 @@ Undergraduated in Civil Engineering from PUC Minas, on the Poços de Caldas camp
 ## Projects:
 
 * **Análise de Dados do Airbnb na Cidade de Seattle:** https://bit.ly/3dzlGAD
+* **Los Angeles Crime Data Analysys Using Pandas:** https://bit.ly/2PATNOr
